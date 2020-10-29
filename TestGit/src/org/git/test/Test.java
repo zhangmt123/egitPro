@@ -2,7 +2,8 @@ package org.git.test;
 
 public class Test {
 	public static void main(String[] args) {
-		//123²âÊÔÌá½»
+		//123Â²Ã¢ÃŠÃ”ÃŒÃ¡Â½Â»
+		//test update
 		System.out.println("git");
 	}
 }
